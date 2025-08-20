@@ -1,9 +1,9 @@
 ## Hi Everyone!  
-### 👨🏻‍🎓 My name is **Achmad Tegar Almannudin**  
+### My name is **Achmad Tegar Almannudin**  
 
 I'm a *Web Developer* and *Undergraduate Student* for Computer Science at [Mercubuana University](https://mercubuana.ac.id/) since 2022. I have been actively joining the [Google Developer Indonesia](https://www.instagram.com/gdevsid/) community since 2024, i am also part of [Google Developer Jakarta](https://gdg.community.dev/gdg-jakarta/) and [Google Cloud Developer Jakarta](https://gdg.community.dev/gdg-cloud-jakarta/). I have also completed several certified programming classes at [dicoding indonesia](https://www.dicoding.com/). 
 
-### 🛠️ Tech Stack  
+### Tech Stack  
 <img align="left" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>  
 <img align="left" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"/>  
 <img align="left" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>  
@@ -15,7 +15,7 @@ I'm a *Web Developer* and *Undergraduate Student* for Computer Science at [Mercu
 <img align="left" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>  
 <br><br>
 
-### 📊 Github Statistic 
+### Github Statistic 
 #### Light Mode
 <p align="left">
 <a href="https://github.com/achmadtegarall">
